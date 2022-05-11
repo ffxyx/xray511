@@ -1,0 +1,14 @@
+{
+    "name": "wedxs",
+    "description": "sdef",
+    "logo":"sea",
+    "keywords": ["gfrtd"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,decee uuideccece?> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/用户名/仓库名.git",
+    "stack": "container"
+}
