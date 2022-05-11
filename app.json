@@ -9,6 +9,6 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/用户名/仓库名.git",
+    "repository": "https://github.com/ffxyx/xray511.git",
     "stack": "container"
 }
